@@ -28,7 +28,7 @@ After you create database you need to edit config.php with all your custom param
 Now for faucet to communicate with B2N wallet you need to run simplewallet as this:
 
 ```bash
-./simplewallet --wallet-file=walletName --pass=password --rpc-bind-port=18070 --rpc-bind-ip=127.0.0.1
+./simplewallet --wallet-file=walletName --pass=password --rpc-bind-port=19635 --rpc-bind-ip=127.0.0.1
 ```
 
 Note: Run this command after you already created a wallet with simplewallet commands.
