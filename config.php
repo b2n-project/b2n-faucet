@@ -10,8 +10,8 @@ $faucetAddress = "btc2fgWmynZdcRzztsNrYCXzadV9QYkNdcFxcVWud9XfHpcfGMk5SbKbjzMLkR
 //Reward time in hours
 $rewardEvery = "4";
 //Max reward and min reward as decimals Ex: Min = 10.0 & Max = 20.0
-$minReward = "2"; //Remember that the minimum for an eobot deposit is 1 B2N as reward.
-$maxReward = "4"; 
+$minReward = "1"; //Remember that the minimum for an eobot deposit is 1 B2N as reward.
+$maxReward = "3"; 
 //Transaction fee is set to 0.01 B2N for every request.
 
 //Database connection
